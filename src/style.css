@@ -29,3 +29,20 @@
   nav ul li:hover {
     background-color: green;
   }
+  #main {
+    background-color: lightgray;
+    width: 100%;
+    text-align: justify;
+    overflow: hidden;
+  }
+  #content {
+    width: 55%;
+    float: left;
+    background-color: white;
+    padding: 2% 5% 2% 3%;
+  }
+  #sidebar {
+    width: 30%;
+    float: right;
+    padding: 2% 4% 2% 1%;
+  }
